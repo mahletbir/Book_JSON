@@ -1,0 +1,25 @@
+
+[
+   {
+      "Title": "Exploring Biology in the Laboratory",
+      "Author": "Murray P. Pendarvis, John L. Crawley",
+      "Publish_Date": "January 1, 2018",
+      "Price": "$106.95",
+      "Publisher": "Morton Publishing Company"
+   },
+   {
+      "Title": "My Education",
+      "Author": "Susan Choi",
+      "Publish_Date": "July 3,2013",
+      "Price": "$26.95",
+      "Publisher": "Viking"
+   
+   },
+   {
+      "Title": "The Four Winds",
+      "Author": "Kristin Hannah",
+      "Publish_Date": "February 2,2021",
+      "Price": "$31.46",
+      "Publisher": "St. Martin's Press"
+   }
+]
